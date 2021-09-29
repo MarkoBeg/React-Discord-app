@@ -1,0 +1,23 @@
+.messages {
+  display: flex;
+  padding: 20px;
+  color: #fff;
+}
+.message-info {
+  margin-left: 15px;
+}
+.message-info > h4 {
+  font-size: 18px;
+}
+.message-info > p {
+  font-size: 16px;
+}
+.message-timestamp {
+  color: gray;
+  margin-left: 10px;
+  font-size: small;
+}
+.message-email {
+  font-size: xx-small;
+  color: gray;
+}

@@ -1,0 +1,1 @@
+![discordScreen](images/discordScreen.png)

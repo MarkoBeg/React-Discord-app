@@ -1,0 +1,42 @@
+.chatHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: gray;
+  padding: 10px;
+}
+.chatHeader-hash {
+  font-size: 30px;
+  padding: 10px;
+}
+.chatHeader-left > h3 {
+  color: #fff;
+  font-size: 22px;
+}
+.chatHeader-right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 0.5;
+}
+.chatHeader-right > .MuiSvgIcon-root {
+  cursor: pointer;
+  margin: 5px;
+}
+.chatHeader-right > .MuiSvgIcon-root:hover {
+  color: #fff;
+}
+.chatHeader-search {
+  display: flex;
+  align-items: center;
+  color: gray;
+  background-color: #2f3135;
+  border-radius: 3px;
+  padding: 3px;
+}
+.chatHeader-search > input {
+  outline: none;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
